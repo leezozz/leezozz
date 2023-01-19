@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 统计信息以及使用语言 -->
+<!-- 统计信息以及使用语言  &line_height=27 -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight" height="100">
+  <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=radical" height="220">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight" height="220">
 </p>
 
 <!-- Github活跃图 -->
