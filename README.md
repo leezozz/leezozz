@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- 统计信息以及使用语言  -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=radical" width="65%" height="220">
-  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight" width="32%" height="220">
+  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight" width="34%" height="220">
 </p>
 
 <p width="100%"> 
