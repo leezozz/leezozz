@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- 统计信息以及使用语言 -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight" height="100">
 </p>
 
 <!-- Github活跃图 -->
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 <!-- github奖杯 -->
 <p align = "center">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" width="50%" >
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=leezozz&theme=tokyonight" width="50%" >
 </p>
 
 <!-- 浏览量统计 -->
 <p align = "center" >
-  <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
+  <img src = "https://komarev.com/ghpvc/?username=leezozz" >
 </p>
 
