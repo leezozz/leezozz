@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![leezozz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leezozz&show_icons=true&theme=radical)
 
 
-<!-- 热门语言 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&layout=compact)](https://github.com/leezozz/github-readme-stats)
+<!-- 热门语言    &layout=compact 紧凑风格不行-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz)](https://github.com/leezozz/github-readme-stats)
