@@ -14,16 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 卡片配置 -->
-![leezozz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leezozz&show_icons=true&theme=radical)
 
-
-<!-- 热门语言    &layout=compact 紧凑风格不行-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz)](https://github.com/leezozz/github-readme-stats)
-
-
-
+<!-- 统计信息以及使用语言 -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight">
 </p>
+
+<!-- Github活跃图 -->
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=react-dark">
+</p>
+
+<!-- github奖杯 -->
+<p align = "center">
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" width="50%" >
+</p>
+
+<!-- 浏览量统计 -->
+<p align = "center" >
+  <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
+</p>
+
