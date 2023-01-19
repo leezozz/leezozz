@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 卡片配置 -->
-![](https://github-readme-stats.vercel.app/api?username=leezozz&theme=dark)
+![leezozz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leezozz&show_icons=true&theme=radical)
 
 <!--  -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leezozz&repo=github-readme-stats)](https://github.com/leezozz/github-readme-stats)
