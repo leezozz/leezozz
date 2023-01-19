@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
 <div> 
   
-<img align = "right" src = "https://github-profile-trophy.vercel.app/?username=leezozz&theme=tokyonight" width="50%" >
-  
-  
+<!-- github奖杯 -->
 <img align = "right" src = "https://komarev.com/ghpvc/?username=leezozz" >
   
 - 🔭 &nbsp; 大家好，我是leezozz。
@@ -36,19 +34,9 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
   
-
 </div>
 
 
-
-
-<!-- github奖杯 -->
-<!-- <p align = "center"> -->
-
-<!-- </p> -->
-
 <!-- 浏览量统计 -->
-<!-- <p align = "center" > -->
-
-<!-- </p> -->
+<img align = "right" src = "https://github-profile-trophy.vercel.app/?username=leezozz&theme=tokyonight" width="50%" >
 
