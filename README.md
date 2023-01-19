@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 <!-- 卡片配置 -->
 ![leezozz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leezozz&show_icons=true&theme=radical)
 
-<!--  -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leezozz&repo=github-readme-stats)](https://github.com/leezozz/github-readme-stats)
-
 
 <!-- 热门语言 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&layout=compact)](https://github.com/leezozz/github-readme-stats)
