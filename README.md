@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!-- 统计信息以及使用语言 -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=radical&line_height=29">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight&line_height=27">
 </p>
 
 <!-- Github活跃图 -->
