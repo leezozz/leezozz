@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 <!-- 热门语言 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz)](https://github.com/leezozz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&layout=compact)](https://github.com/leezozz/github-readme-stats)
