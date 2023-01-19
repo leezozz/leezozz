@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 
 <!-- 热门语言    &layout=compact 紧凑风格不行-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz)](https://github.com/leezozz/github-readme-stats)
+
+
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight">
+</p>
