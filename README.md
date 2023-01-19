@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 卡片配置 -->
 ![](https://github-readme-stats.vercel.app/api?username=leezozz&theme=dark)
+
+<!--  -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leezozz&repo=github-readme-stats)](https://github.com/leezozz/github-readme-stats)
