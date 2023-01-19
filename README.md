@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <!-- 统计信息以及使用语言  -->
 <p align = "center">
-  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=radical" width="65%" height="220">
+  <img src = "https://github-readme-stats.vercel.app/api?username=leezozz&count_private=true&show_icons=true&theme=radical" width="65%" height="220">
   <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leezozz&theme=tokyonight" width="32%" height="220">
 </p>
 
-<div> 
+<p width="100%"> 
   
 <!-- github奖杯 -->
 <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=leezozz&theme=tokyonight" width="50%" >
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
   
-</div>
+</p>
 
 
 <!-- 浏览量统计 -->
