@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
 
 <!-- github奖杯 -->
-<p align = "center">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=leezozz&theme=tokyonight" width="50%" >
-</p>
+<!-- <p align = "center"> -->
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=leezozz&theme=tokyonight" width="40%" >
+<!-- </p> -->
 
 <!-- 浏览量统计 -->
-<p align = "center" >
-  <img src = "https://komarev.com/ghpvc/?username=leezozz" >
-</p>
+<!-- <p align = "center" > -->
+  <img align = "right" src = "https://komarev.com/ghpvc/?username=leezozz" >
+<!-- </p> -->
 
